@@ -1,0 +1,16 @@
+# Visual Studio 产生的临时文件和编译输出
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.suo
+*.pdb
+*.ilk
+*.obj
+*.exe
+*.dll
+
+# 忽略其他可能的不必要文件
+*.log
