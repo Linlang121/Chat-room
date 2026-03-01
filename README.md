@@ -1,4 +1,8 @@
-# 💬 Chat Room — Client-Server Application
+# GE-Chatroomclient
+
+https://github.com/user-attachments/assets/326d5357-e9a9-4798-9644-e4fdbf7fd9ad
+
+💬 Chat Room — Client-Server Application
 
 <p align="center">
   <strong>A real-time multi-user chat application</strong> built with <strong>C++</strong>, <strong>WinSock</strong>, and <strong>ImGui</strong> (DirectX 12).
@@ -17,7 +21,7 @@
 
 This project implements a **client–server chat room** with two programs: **myServer** (TCP server) and **myClient** (GUI client). The server supports multiple concurrent clients, broadcasts public messages to everyone, and routes private (direct) messages to the correct user. The client provides a login screen, a main chat window with an online user list, and separate windows for direct messages, with distinct sound notifications for public vs private messages.
 
-Originally developed as **Part 2** of the Games Engineering coursework at the **University of Warwick**.
+Developed as **Part 2** of the Games Engineering coursework at the **University of Warwick**.
 
 ---
 
@@ -150,11 +154,7 @@ University of Warwick — Games Engineering
 
 ---
 
-## 📄 License
 
-This project was submitted as coursework at the University of Warwick. Use and distribution may be subject to academic and institutional policies.
-
----
 
 <p align="center">
   <sub>Built with C++, WinSock, and ImGui</sub>
