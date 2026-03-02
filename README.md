@@ -104,7 +104,6 @@ Chatroom/
 │   ├── Sound.h               # Sound playback (e.g. FMOD or similar)
 │   ├── IMGUI/                # ImGui library (Win32 + DX12 backends)
 │   └── ...
-├── Report.md                 # Games Engineering report (Part 1 & Part 2)
 └── README.md                 # This file
 ```
 
